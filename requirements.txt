@@ -1,0 +1,8 @@
+pip install langchain[all]
+pip install openai
+pip install -e .
+pip install chromadb
+pip install unstructured
+pip install pdfminer 
+pip install --upgrade pdfminer.six
+pip install --upgrade clickhouse-connect==0.5.22
